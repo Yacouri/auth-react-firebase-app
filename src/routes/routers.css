@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    margin-top: 30px;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 30px;
+}
+
+.cmps{
+    margin-top: 10%;
+    padding: 50px;
+    background-color:#212529;
+    color: #f0f0f0;
+    border-radius: 15px;
+    box-shadow: -60px 0px 100px -90px #000000, 60px 0px 100px -90px #000000;
+  }
